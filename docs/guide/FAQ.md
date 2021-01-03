@@ -155,8 +155,7 @@ You can use `vetur.ignoreProjectWarning: true` in vscode setting to close this w
 Vetur find the file, but it may not actually be what you want.
 If it is wrong, it will cause same result as the previous two. [ref1](/guide/FAQ.html#vetur-can-t-find-tsconfig-json-jsconfig-json-in-xxxx-xxxxxx), [ref2](/guide/FAQ.html#vetur-can-t-find-package-json-in-xxxx-xxxxxx)
 
-You can add this config in correct position in project.
-Or use `vetur.config.js` to set file path in project.
+You can add this config at the correct position in project or use `vetur.config.js` to set file path in project.
 
 - [Read more `vetur.config.js`](/guide/setup.html#advanced)
 
